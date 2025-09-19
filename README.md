@@ -1,4 +1,4 @@
-#EEE318 Control Lab project
+EEE318 Control Lab project
 Quadraped Robotic Dog
 
 
